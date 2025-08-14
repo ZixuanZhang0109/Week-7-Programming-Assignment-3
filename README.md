@@ -115,5 +115,3 @@ During the completion of this assignment:
 
 ---
 
-## 📎 License
-This repository is for educational purposes as part of the Week 7 course assignment. Redistribution or reuse without permission is not recommended.
